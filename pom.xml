@@ -13,6 +13,7 @@
         <module>Fraud</module>
         <module>eureka-server</module>
         <module>clients</module>
+        <module>notification</module>
     </modules>
 
     <name>my-uber</name>
