@@ -1,4 +1,4 @@
-package com.uberus.customer.dto;
+package com.amigoscode.clients.fraud;
 
 public record FraudCheckResponse(Boolean isFraudster) {
 }
